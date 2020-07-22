@@ -2,3 +2,5 @@
 
 
 ./configure --with-macosx-target=10.11 --with-ant-home=/Users/hyeondnl/Documents/apache-ant-1.9.15 --with-java --with-jdk-home=/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home --without-junit --with-package-format="dmg" --with-openldap --enable-verbose --without-stlport --with-system-openssl
+
+./configure --with-macosx-target=10.11 --with-ant-home=/Users/hyeondnl/Documents/apache-ant-1.9.15 --with-java --with-jdk-home=/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home --without-junit --with-package-format="dmg" --with-openldap --enable-verbose --without-stlport --disable-systray --enable-category-b --enable-bundled-dictionaries --with-system-openssl
